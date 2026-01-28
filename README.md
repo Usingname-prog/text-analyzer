@@ -17,6 +17,6 @@ The program reads a `.txt` file and prints basic text statistics, top frequent w
 3. Run all cells
 
 ## Notes
-- This repository does not include copyrighted article text. Use `sample.txt` or your own `.txt` file.
+- This repository does not include copyrighted article text. Use your own `.txt` file.
 
 Results are uploaded in separate file
