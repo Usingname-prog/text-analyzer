@@ -19,4 +19,3 @@ The program reads a `.txt` file and prints basic text statistics, top frequent w
 ## Notes
 - This repository does not include copyrighted article text. Use your own `.txt` file.
 
-Results are uploaded in separate file
