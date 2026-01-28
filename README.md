@@ -16,8 +16,7 @@ The program reads a `.txt` file and prints basic text statistics, top frequent w
 2. Upload your `.txt` file when prompted (or use `read.txt` if you have it locally in Colab)
 3. Run all cells
 
-## Screenshots
-![Result](screenshots/result-1.png)
-
 ## Notes
 - This repository does not include copyrighted article text. Use `sample.txt` or your own `.txt` file.
+
+## Results are uploaded in separate file
