@@ -1,6 +1,7 @@
 # Text Analyzer (Colab)
 
-Python mini-project built in Google Colab.  
+Python mini-project built in Google Colab.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+
 The program reads a `.txt` file and prints basic text statistics, top frequent words, and a simple topic prediction (keyword scoring).
 
 ## Features
