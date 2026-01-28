@@ -13,7 +13,7 @@ The program reads a `.txt` file and prints basic text statistics, top frequent w
 
 ## How to run (Google Colab)
 1. Open the notebook: `Text-analyzer-colab.ipynb`
-2. Upload your `.txt` file when prompted (or use `read.txt` if you have it locally in Colab)
+2. Upload your `.txt` file when prompted
 3. Run all cells
 
 ## Notes
